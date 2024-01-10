@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.WebApi.Client.Console", "Northwind.WebApi.Client.Console.csproj", "{CF73D972-D8E7-4DF7-82A2-0BA674AA16DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF73D972-D8E7-4DF7-82A2-0BA674AA16DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF73D972-D8E7-4DF7-82A2-0BA674AA16DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF73D972-D8E7-4DF7-82A2-0BA674AA16DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF73D972-D8E7-4DF7-82A2-0BA674AA16DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3037D21-A9B5-42F1-A5D3-6EDB385CFDF6}
+	EndGlobalSection
+EndGlobal
